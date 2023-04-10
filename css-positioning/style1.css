@@ -27,4 +27,11 @@ body {
   width: 100px;
   height: 100px;
   background-color: blue;
+
+}
+
+.two, .three, .four {
+  position: relative;
+  left: 50px;
+  top: 50px;
 }
